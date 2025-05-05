@@ -1,0 +1,44 @@
+body {
+    background-color: #657C6A;
+}
+
+h1 {
+    text-align: center;
+}
+
+#intro {
+    text-align: center;
+}
+
+#correctAns {
+    display: inline;
+}
+
+#userAns {
+    display: inline;
+}
+
+#secretBox, #userBox {
+    text-align: center;
+}
+
+div {
+    margin: 0 auto;
+    /* align-items: center; */
+    text-align: center;
+    line-height: 1.8;
+}
+
+#result {
+    text-align: center;
+    font-size: large;
+}
+
+button {
+    background-color: #A2B9A7;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
